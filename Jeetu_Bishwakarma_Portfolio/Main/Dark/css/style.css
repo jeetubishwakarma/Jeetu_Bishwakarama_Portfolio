@@ -36,6 +36,11 @@ header{
     z-index: 5;
 }
 
+header img {
+    width: 330px;
+    height: 32px;
+}
+
 /* Preloader */
 
 
@@ -313,12 +318,14 @@ header{
     font-weight: 900;
     letter-spacing: -4px;
     line-height: 125px;
+    padding-left: 2%;
 }
 
 .home .home-content p{
     font-size: 28px;
     color: #b7b7b7;
     font-weight: 500;
+    padding-left: 2%;
 }
 
 .home .home-content p span{
