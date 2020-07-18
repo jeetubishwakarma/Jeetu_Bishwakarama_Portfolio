@@ -1989,7 +1989,9 @@ textarea.form-message{
         padding-bottom: 60px;
     }
 
-  
+    div.imgPx a:first-child {
+        margin-top: 20%;
+    }
 }
 
 
